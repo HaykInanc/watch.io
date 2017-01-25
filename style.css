@@ -1,0 +1,19 @@
+.textArea {
+	position: absolute;
+	display: inline-block;
+}
+.letter{
+	position: absolute;
+	top: 200px;
+	left: 200px;
+	font-size: 13px;
+	color: #fff;
+	font-family: monospace;
+
+}
+
+body {
+	background-color: #04144A;
+	color: #FFFFFF;
+	cursor: none;
+}
